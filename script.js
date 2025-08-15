@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
+        enunciado:  "como você se vê daqui 5 anos",
         alternativas: [
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
+                texto: "estável",
+                afirmacao: "me formando na faculdade, tendo uma profissão estável "
             },
             {
-                texto: "alternativa letra B deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
+                texto: "ainda não sei",
+                afirmacao: "provavelmente trabalhando ou me formando "
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "qual tipo de carreira você almeja",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "empreendendo",
+                afirmacao: " me tornando o meu próprio chefe em um possível empreendimento fazendo algo que eu gosto"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "uma profissão que eu seja valorizado",
+                afirmacao: "onde eu sou bem vindo e meu trabalho é valorizado "
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "o que falta para alcançar esse objetivo",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "determinação, coragem e foco",
+                afirmacao: "são coisas onde não me encontro estável, preciso melhorar"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "curso ou formação",
+                afirmacao: "acredito que estou preparado, só falta me formar ou concluir um curso"
             }
         ]
     },
